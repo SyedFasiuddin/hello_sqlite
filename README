@@ -1,0 +1,13 @@
+Hello SQLite
+
+Exploring SQLite, what it is, how to use it from different languages etc.
+
+Things that I want to explore:
+[ ] How to use it from:
+    [ ] C/C++
+    [ ] Rust (SQLX)
+    [ ] Java
+    [ ] Node.JS and Deno
+[ ] Explore the difference between SQLite and others like MySQL or PostgreSQL
+[ ] Learn the data types in SQLite
+    [ ] How do they differ from others
