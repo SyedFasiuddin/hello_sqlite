@@ -8,6 +8,7 @@ Things that I want to explore:
     [ ] Rust (SQLX)
     [ ] Java
     [ ] Node.JS and Deno
-[ ] Explore the difference between SQLite and others like MySQL or PostgreSQL
-[ ] Learn the data types in SQLite
-    [ ] How do they differ from others
+[x] Explore the difference between SQLite and others like MySQL or PostgreSQL
+[x] Learn the data types in SQLite
+    [x] How do they differ from others
+    - https://sqlite.org/datatype3.html
